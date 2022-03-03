@@ -1,5 +1,13 @@
 # UkrainianLT
+
 A collection of links to Ukrainian language tools
+
+
+## Speech recognition
+
+* [Models at huggingface](https://huggingface.co/models?language=uk&pipeline_tag=automatic-speech-recognition&sort=downloads)
+
+
 
 ## Translation
 
@@ -9,6 +17,11 @@ A collection of links to Ukrainian language tools
 
 
 ### Translation APIs / deployable containers
+
+Huggingface:
+
+* [Ukrainian Translation models](https://huggingface.co/models?language=uk&pipeline_tag=translation&sort=downloads)
+
 
 European Language Grid:
 
@@ -85,6 +98,12 @@ OPUS-MT:
 | ukr-srp_Cyrl	|	0.683	|	51.4	|	[sla-sla/opus-2021-02-18](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip) |
 | ukr-srp_Latn	|	0.671	|	43.5	|	[sla-sla/opus-2021-02-18](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip) |
 | ukr-tur	|	0.655	|	39.3	|	[ukr-tur/opus-2021-02-19](https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-tur/opus-2021-02-19.zip) |
+
+
+
+## Language models
+
+* [Ukrainian Roberta](https://huggingface.co/youscan/ukr-roberta-base)
 
 
 ## Other LT resources and links

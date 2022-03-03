@@ -19,9 +19,15 @@ A collection of links to Ukrainian language tools
 
 ### Translation APIs / deployable containers / workflow integration
 
-Computer-aided translation
+Computer-aided translation:
 
 * [OPUS-CAT](https://helsinki-nlp.github.io/OPUS-CAT/): plugins for common translation tools, downloadable MT models from OPUS-MT
+
+
+Deployable MT server solutions, web apps, docker containers:
+
+* [OPUS-MT](https://github.com/Helsinki-NLP/OPUS-MT), basically all released [OPUS-MT](https://opus.nlpl.eu/Opus-MT/) and [Tatoeba MT models](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-models-all.md) can be used
+* [OPUS-MT docker containers](https://hub.docker.com/repository/docker/helsinkinlp/tatoeba-mt)
 
 
 Huggingface:

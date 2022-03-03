@@ -142,7 +142,14 @@ Tools to handle data:
 * [Ukrainian Roberta](https://huggingface.co/youscan/ukr-roberta-base)
 
 
+
+## Linguistic tools
+
+* [pymorph2](https://github.com/kmike/pymorphy2) - morphological analyzer for Russian and Ukrainian
+
+
 ## Other LT resources and links
 
 * [Ukrainian LT resources at huggingface](https://huggingface.co/models?language=uk)
 * [Ukrainian LT resources at the European Language Grid](https://live.european-language-grid.eu/catalogue/search/Ukrainian)
+* [Resources and links collected by ELRA](https://cloud.elra.info/s/S7tCCkjyRpfLdF5)

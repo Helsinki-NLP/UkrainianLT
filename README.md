@@ -42,4 +42,5 @@ OPUS-MT:
 
 ## Other LT resources and links
 
+* [Ukrainian LT resources at huggingface](https://huggingface.co/models?language=uk)
 * [Ukrainian LT resources at the European Language Grid](https://live.european-language-grid.eu/catalogue/search/Ukrainian)

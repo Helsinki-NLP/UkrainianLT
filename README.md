@@ -13,14 +13,30 @@ A collection of links to Ukrainian language tools
 
 ### On-line translation tools
 
+* [Google translate](https://translate.google.com/)
 * [OPUS-MT web-interface](https://translate.ling.helsinki.fi/ui/ukrainian)
 
 
-### Translation APIs / deployable containers
+### Translation APIs / deployable containers / workflow integration
+
+Computer-aided translation
+
+* [OPUS-CAT](https://helsinki-nlp.github.io/OPUS-CAT/): plugins for common translation tools, downloadable MT models from OPUS-MT
+
 
 Huggingface:
 
 * [Ukrainian Translation models](https://huggingface.co/models?language=uk&pipeline_tag=translation&sort=downloads)
+
+Example use for hf models (Ukrainian - English):
+
+```python
+from transformers import pipeline
+pipe = pipeline("translation", model="Helsinki-NLP/opus-mt-uk-en")
+print(pipe("Мене звати Вольфґанґ і я живу в Берліні."))
+
+# [{'translation_text': 'My name is Wolfgang, and I live in Berlin.'}]
+```
 
 
 European Language Grid:
@@ -48,7 +64,7 @@ European Language Grid:
 
 ### Pre-trained translation models
 
-OPUS-MT:
+OPUS-MT (see also the [full list of models](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-all.md)):
 
 | Language Pair         | Language IDs  |  chr-F        | BLEU          | NMT model |
 |-----------------------|---------------|---------------|---------------|-----------|
@@ -98,6 +114,20 @@ OPUS-MT:
 | Ukrainian-Serbian	|	ukr-srp_Cyrl	|	0.683	|	51.4	|	[sla-sla/opus-2021-02-18](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip) |
 | Ukrainian-Serbian	|	ukr-srp_Latn	|	0.671	|	43.5	|	[sla-sla/opus-2021-02-18](https://object.pouta.csc.fi/Tatoeba-MT-models/sla-sla/opus-2021-02-18.zip) |
 | Ukrainian-Turkish	|	ukr-tur	|	0.655	|	39.3	|	[ukr-tur/opus-2021-02-19](https://object.pouta.csc.fi/Tatoeba-MT-models/ukr-tur/opus-2021-02-19.zip) |
+
+
+### MT Data sets
+
+* [OPUS](https://opus.nlpl.eu/), use [OPUS-API](https://opus.nlpl.eu/opusapi/) to search for resources, for example [all bitexts for English-Ukrainian](https://opus.nlpl.eu/opusapi/?source=en&target=uk&preprocessing=moses&version=latest)
+* [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/)
+* [OPUS-MT-testsets, various sources](https://github.com/Helsinki-NLP/OPUS-MT-testsets)
+
+
+Tools to handle data:
+
+* [OPUS-tools](https://pypi.org/project/opustools/) - search and download OPUS data
+* [mt-data](https://github.com/thammegowda/mtdata) - download data sets from various sources
+* [OpusFiler](https://github.com/Helsinki-NLP/OpusFilter) - filter / cleanup data sets
 
 
 

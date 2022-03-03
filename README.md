@@ -64,7 +64,7 @@ European Language Grid:
 
 ### Pre-trained translation models
 
-OPUS-MT (see also the [full list of models](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-all.md)):
+OPUS-MT (see also the [full list of models](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-all.md)) (scores refer to the [Tatoeba benchmark](https://github.com/Helsinki-NLP/Tatoeba-Challenge)):
 
 | Language Pair         | Language IDs  |  chr-F        | BLEU          | NMT model |
 |-----------------------|---------------|---------------|---------------|-----------|

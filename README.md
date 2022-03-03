@@ -3,9 +3,18 @@
 A collection of links to Ukrainian language tools
 
 
-## Speech recognition
+## Speech recognition and synthesis (ASR, TTS)
 
 * [Models at huggingface](https://huggingface.co/models?language=uk&pipeline_tag=automatic-speech-recognition&sort=downloads)
+
+Resources from ELRA, may be provided free of charge. Please contact info@elda.org:
+
+* http://catalog.elra.info/en-us/repository/browse/ELRA-S0043/
+* http://catalog.elra.info/en-us/repository/browse/ELRA-S0377/
+* http://catalog.elra.info/en-us/repository/browse/ELRA-S0378/
+* http://catalog.elra.info/en-us/repository/browse/ELRA-S0399/
+* http://catalog.elra.info/en-us/repository/browse/ELRA-S0400/
+* [more info](https://cloud.elra.info/s/S7tCCkjyRpfLdF5?path=%2FSpeech%20resources)
 
 
 

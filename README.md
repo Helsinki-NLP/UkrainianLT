@@ -65,7 +65,19 @@ European Language Grid:
 * [Ukrainian - Hungarian](https://live.european-language-grid.eu/catalogue/tool-service/18052)
 * [Ukrainian - Russian](https://live.european-language-grid.eu/catalogue/tool-service/18053)
 * [Ukrainian - Turkish](https://live.european-language-grid.eu/catalogue/tool-service/18054)
-
+* [East Slavic languages - Afrikaans](https://live.european-language-grid.eu/catalogue/tool-service/18068)
+* [East Slavic languages - Catalan](https://live.european-language-grid.eu/catalogue/tool-service/18069)
+* [East Slavic languages - Dutch](https://live.european-language-grid.eu/catalogue/tool-service/18073)
+* [East Slavic languages - French](https://live.european-language-grid.eu/catalogue/tool-service/18071)
+* [East Slavic languages - German](https://live.european-language-grid.eu/catalogue/tool-service/18070)
+* [East Slavic languages - Italian](https://live.european-language-grid.eu/catalogue/tool-service/18072)
+* [East Slavic languages - Portuguese](https://live.european-language-grid.eu/catalogue/tool-service/18074)
+* [East Slavic languages - Romanian](https://live.european-language-grid.eu/catalogue/tool-service/18075)
+* [East Slavic languages - Spanish](https://live.european-language-grid.eu/catalogue/tool-service/18076)
+* [Slavic languages - Polish](https://live.european-language-grid.eu/catalogue/tool-service/18063)
+* [Slavic languages - Czech](https://live.european-language-grid.eu/catalogue/tool-service/18057)
+* [Slavic languages - Serbo-Croatian](https://live.european-language-grid.eu/catalogue/tool-service/18060)
+* [Slavic languages - Bulgarian](https://live.european-language-grid.eu/catalogue/tool-service/18056)
 
 
 ### Pre-trained translation models

@@ -12,6 +12,7 @@ A collection of links to Ukrainian language tools
 
 ## Speech recognition and synthesis (ASR, TTS)
 
+* [ASR for Ukrainian at ELG](https://live.european-language-grid.eu/catalogue/tool-service/18079)
 * [Models at huggingface](https://huggingface.co/models?language=uk&pipeline_tag=automatic-speech-recognition&sort=downloads)
 
 Resources from ELRA, may be provided free of charge. Please contact info@elda.org:
@@ -23,6 +24,10 @@ Resources from ELRA, may be provided free of charge. Please contact info@elda.or
 * http://catalog.elra.info/en-us/repository/browse/ELRA-S0400/
 * [more info](https://cloud.elra.info/s/S7tCCkjyRpfLdF5?path=%2FSpeech%20resources)
 
+Resources from ELG:
+
+* [GlobalPhone Ukrainian](https://live.european-language-grid.eu/catalogue/corpus/1481)
+* [GlobalPhone Ukrainian Pronunciation Dictionary](https://live.european-language-grid.eu/catalogue/lcr/2218)
 
 
 ## Translation
@@ -84,6 +89,7 @@ European Language Grid:
 * [OPUS](https://opus.nlpl.eu/), use [OPUS-API](https://opus.nlpl.eu/opusapi/) to search for resources, for example [all bitexts for English-Ukrainian](https://opus.nlpl.eu/opusapi/?source=en&target=uk&preprocessing=moses&version=latest)
 * [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/)
 * [OPUS-MT-testsets, various sources](https://github.com/Helsinki-NLP/OPUS-MT-testsets)
+* [Polish-Ukrainian Parallel Corpus at ELG](https://live.european-language-grid.eu/catalogue/corpus/8618)
 
 
 Tools to handle data:

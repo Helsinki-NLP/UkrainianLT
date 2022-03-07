@@ -33,11 +33,21 @@ Resources from ELRA, may be provided free of charge. Please contact info@elda.or
 * [OPUS-MT web-interface](https://translate.ling.helsinki.fi/ui/ukrainian)
 
 
+
+### Pre-trained translation models
+
+* [OPUS-MT models for Ukrainian evaluated on the flores101 devtest benchmark](opus-mt-ukr-flores-devtest.md)
+* [OPUS-MT models for Ukrainian evaluated on the Tatoeba benchmark](opus-mt-ukr-tatoeba.md)
+* [Full list of OPUS-MT models](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-all.md)
+
+
+
 ### Translation APIs / deployable containers / workflow integration
 
-Computer-aided translation:
+Computer-aided translation / interactive translation:
 
 * [OPUS-CAT](https://helsinki-nlp.github.io/OPUS-CAT/): plugins for common translation tools, downloadable MT models from OPUS-MT
+* [OPUS-MT-app (translateLocally)](https://github.com/Helsinki-NLP/OPUS-MT-app/) - speed-optimized local translation - now with models for Ukrainian to English and English to Ukrainian (NOTE: models are broken on Windows, unfortunately!)
 
 
 Deployable MT server solutions, web apps, docker containers:
@@ -66,13 +76,6 @@ European Language Grid:
 * [OPUS-MT models at ELG](opus-mt-ukr-elg.md)
 * [Ukrainian LT resources at the European Language Grid](https://live.european-language-grid.eu/catalogue/search/Ukrainian)
 
-
-
-### Pre-trained translation models
-
-* [OPUS-MT models for Ukrainian evaluated on the Tatoeba benchmark](opus-mt-ukr-tatoeba.md)
-* [OPUS-MT models for Ukrainian evaluated on the flores101 devtest benchmark](opus-mt-ukr-flores-devtest.md)
-* [Full list of OPUS-MT models](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-all.md)
 
 
 

@@ -34,9 +34,10 @@ Resources from ELG:
 
 ### On-line translation tools
 
-* [Google translate](https://translate.google.com/)
+* [Bergamot client-side browser-based translator](https://translate.ikhoefgeen.nl/)
 * [OPUS-MT web-interface](https://translate.ling.helsinki.fi/ui/ukrainian)
-
+* [Google translate](https://translate.google.com/)
+* [Microsoft Bing translator](https://www.bing.com/Translator)
 
 
 ### Pre-trained translation models

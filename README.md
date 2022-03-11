@@ -92,6 +92,7 @@ European Language Grid:
 * [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/)
 * [OPUS-MT-testsets, various sources](https://github.com/Helsinki-NLP/OPUS-MT-testsets)
 * [Polish-Ukrainian Parallel Corpus at ELG](https://live.european-language-grid.eu/catalogue/corpus/8618)
+* [Back-translated monolingual Wiki data](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md)
 
 
 Tools to handle data:

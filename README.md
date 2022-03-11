@@ -5,6 +5,7 @@ A collection of links to Ukrainian language tools
 
 ## NEWS
 
+* new translation tools with Ukrainian language support
 * moved MT model list to separate pages
 * updated table with new OPUS-MT models
 * benchmarks on flores101 scores
@@ -38,7 +39,7 @@ Resources from ELG:
 * [OPUS-MT web-interface](https://translate.ling.helsinki.fi/ui/ukrainian)
 * [Google translate](https://translate.google.com/)
 * [Microsoft Bing translator](https://www.bing.com/Translator)
-
+* [Tilde trainslator](https://translate.tilde.com)
 
 ### Pre-trained translation models
 

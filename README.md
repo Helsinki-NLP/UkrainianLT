@@ -80,8 +80,8 @@ print(pipe("Мене звати Вольфґанґ і я живу в Берлі�
 
 European Language Grid:
 
-* [OPUS-MT models at ELG](opus-mt-ukr-elg.md)
-* [Ukrainian LT resources at the European Language Grid](https://live.european-language-grid.eu/catalogue/search/Ukrainian)
+* [OPUS-MT models at ELG](https://live.european-language-grid.eu/catalogue/search/Ukrainian?&function__term=Machine%20Translation&language__term=Ukrainian)
+* [Ukrainian LT resources at the European Language Grid](https://live.european-language-grid.eu/catalogue/search/Ukrainian?language__term=Ukrainian)
 
 
 

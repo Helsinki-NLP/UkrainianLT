@@ -181,6 +181,19 @@
             "url": "https://object.pouta.csc.fi/OPUS-MT-models/app/models/swe-ukr.transformer-tiny11.tar.gz",
             "name": "Swedish-Ukrainian tiny",
             "code": "swe-ukr-tiny"
+        },
+        {
+            "modelName": "Ukrainian-German tiny",
+            "shortName": "ukr-deu-tiny",
+            "type": "transformer-tiny11",
+            "src": "Ukrainian",
+            "trg": "German",
+            "version": 2022.03,
+            "API": 1.0,
+            "checksum": "73519bfb6b0ee908e1a04f6a98aa70f9908c4b7266f9ce423408f26892466c25",
+            "url": "https://object.pouta.csc.fi/OPUS-MT-models/app/models/ukr-deu.transformer-tiny11.tar.gz",
+            "name": "Ukrainian-German tiny",
+            "code": "ukr-deu-tiny"
         }
     ]
 }

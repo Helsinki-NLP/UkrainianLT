@@ -43,8 +43,10 @@ Resources from ELG:
 
 ### Pre-trained translation models
 
-* [OPUS-MT models for Ukrainian evaluated on the flores101 devtest benchmark](opus-mt-ukr-flores-devtest.md)
-* [OPUS-MT models for Ukrainian evaluated on the Tatoeba benchmark](opus-mt-ukr-tatoeba.md)
+* [Best OPUS-MT models for Ukrainian evaluated on the flores101 devtest benchmark](opus-mt-ukr-flores-devtest.md)
+* [Tiny Transformer OPUS-MT models for Ukrainian evaluated on the flores101 devtest benchmark](opus-mt-ukr-flores-devtest-tiny.md)
+* [Base Transformer OPUS-MT models for Ukrainian evaluated on the flores101 devtest benchmark](opus-mt-ukr-flores-devtest-base.md)
+* [Big Transformer OPUS-MT models for Ukrainian evaluated on the flores101 devtest benchmark](opus-mt-ukr-flores-devtest-big.md)
 * [Full list of OPUS-MT models](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/results/tatoeba-results-all.md)
 
 
@@ -80,7 +82,7 @@ print(pipe("Мене звати Вольфґанґ і я живу в Берлі�
 
 European Language Grid:
 
-* [OPUS-MT models at ELG](https://live.european-language-grid.eu/catalogue/search/Ukrainian?&function__term=Machine%20Translation&language__term=Ukrainian)
+* [Machine translation at ELG](https://live.european-language-grid.eu/catalogue/search/Ukrainian?&function__term=Machine%20Translation&language__term=Ukrainian)
 * [Ukrainian LT resources at the European Language Grid](https://live.european-language-grid.eu/catalogue/search/Ukrainian?language__term=Ukrainian)
 
 

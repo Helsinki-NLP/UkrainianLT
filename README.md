@@ -11,15 +11,23 @@ A collection of links to Ukrainian language tools
 * [updated table with new OPUS-MT models](opus-mt-ukr-flores-devtest.md)
 * benchmarks on flores101 scores
 
+
+## Chat bots and other on-line tools
+
+[HelpUkraineBot](https://helpukrainebot.com/en) - Latvia’s assistance to Ukraine
+
+
 ## Translation
 
 ### On-line translation tools
 
 * [Bergamot client-side browser-based translator](https://translatelocally.com/web/)
+* [UFAL translator for Czech - Ukrainian](https://lindat.cz/translation/) ([project website](https://ufal.mff.cuni.cz/ufal-ukraine))
 * [OPUS-MT web-interface](https://translate.ling.helsinki.fi/ui/ukrainian)
 * [Google translate](https://translate.google.com/)
 * [Microsoft Bing translator](https://www.bing.com/Translator)
 * [Tilde trainslator](https://translate.tilde.com)
+
 
 ### Pre-trained translation models
 

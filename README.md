@@ -5,31 +5,11 @@ A collection of links to Ukrainian language tools
 
 ## NEWS
 
+* [big](opus-mt-ukr-flores-devtest-big.md), [base](opus-mt-ukr-flores-devtest-base.md) and [tiny](opus-mt-ukr-flores-devtest-tiny.md) transformer models from OPUS-MT
 * new translation tools with Ukrainian language support
 * moved MT model list to separate pages
-* updated table with new OPUS-MT models
+* [updated table with new OPUS-MT models](opus-mt-ukr-flores-devtest.md)
 * benchmarks on flores101 scores
-
-
-## Speech recognition and synthesis (ASR, TTS)
-
-* [ASR for Ukrainian at ELG](https://live.european-language-grid.eu/catalogue/tool-service/18079)
-* [Models at huggingface](https://huggingface.co/models?language=uk&pipeline_tag=automatic-speech-recognition&sort=downloads)
-
-Resources from ELRA, may be provided free of charge. Please contact info@elda.org:
-
-* http://catalog.elra.info/en-us/repository/browse/ELRA-S0043/
-* http://catalog.elra.info/en-us/repository/browse/ELRA-S0377/
-* http://catalog.elra.info/en-us/repository/browse/ELRA-S0378/
-* http://catalog.elra.info/en-us/repository/browse/ELRA-S0399/
-* http://catalog.elra.info/en-us/repository/browse/ELRA-S0400/
-* [more info](https://cloud.elra.info/s/S7tCCkjyRpfLdF5?path=%2FSpeech%20resources)
-
-Resources from ELG:
-
-* [GlobalPhone Ukrainian](https://live.european-language-grid.eu/catalogue/corpus/1481)
-* [GlobalPhone Ukrainian Pronunciation Dictionary](https://live.european-language-grid.eu/catalogue/lcr/2218)
-
 
 ## Translation
 
@@ -102,6 +82,28 @@ Tools to handle data:
 * [OPUS-tools](https://pypi.org/project/opustools/) - search and download OPUS data
 * [mt-data](https://github.com/thammegowda/mtdata) - download data sets from various sources
 * [OpusFilter](https://github.com/Helsinki-NLP/OpusFilter) - filter / cleanup data sets
+
+
+
+## Speech recognition and synthesis (ASR, TTS)
+
+* [ASR for Ukrainian at ELG](https://live.european-language-grid.eu/catalogue/tool-service/18079)
+* [Models at huggingface](https://huggingface.co/models?language=uk&pipeline_tag=automatic-speech-recognition&sort=downloads)
+
+Resources from ELRA, may be provided free of charge. Please contact info@elda.org:
+
+* http://catalog.elra.info/en-us/repository/browse/ELRA-S0043/
+* http://catalog.elra.info/en-us/repository/browse/ELRA-S0377/
+* http://catalog.elra.info/en-us/repository/browse/ELRA-S0378/
+* http://catalog.elra.info/en-us/repository/browse/ELRA-S0399/
+* http://catalog.elra.info/en-us/repository/browse/ELRA-S0400/
+* [more info](https://cloud.elra.info/s/S7tCCkjyRpfLdF5?path=%2FSpeech%20resources)
+
+Resources from ELG:
+
+* [GlobalPhone Ukrainian](https://live.european-language-grid.eu/catalogue/corpus/1481)
+* [GlobalPhone Ukrainian Pronunciation Dictionary](https://live.european-language-grid.eu/catalogue/lcr/2218)
+
 
 
 

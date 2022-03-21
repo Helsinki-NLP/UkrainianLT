@@ -95,7 +95,9 @@ Tools to handle data:
 
 ## Speech recognition and synthesis (ASR, TTS)
 
+* [Vosk, an open-source realtime ASR system based on Kaldi including a Ukrainian model](https://alphacephei.com/vosk/models)
 * [ASR for Ukrainian at ELG](https://live.european-language-grid.eu/catalogue/tool-service/18079)
+* [Links to ASR, TTS and speech resources for Ukrainian](https://github.com/egorsmkv/speech-recognition-uk)
 * [Models at huggingface](https://huggingface.co/models?language=uk&pipeline_tag=automatic-speech-recognition&sort=downloads)
 
 Resources from ELRA, may be provided free of charge. Please contact info@elda.org:

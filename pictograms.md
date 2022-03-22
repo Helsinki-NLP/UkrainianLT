@@ -7,7 +7,7 @@ Edit: jakby ktoś potrzebował w innym języku, to proszę pisać na priv!
 Dzisiaj dla tych, którzy działają za granicą - przetłumaczone dotychczasowe tablice (szybkie komunikaty i ubrania). Wielkie dzięki dla wszystkich, którzy zrobili tłumaczenia - sama bym w życiu nawet się tego nie podjęła. Niech tablice dobrze służą <3 
 
 * 🇬🇧Angielski/English: https://drive.google.com/drive/u/0/folders/1Gx-zRkCKRnf6v1ikDDkwoHoGTzQ_yF3Z
-Czeski/Czech: https://drive.google.com/drive/u/0/folders/16X-4woG4nSu1M_G8c09bq72d60_cwMGT
+* Czeski/Czech: https://drive.google.com/drive/u/0/folders/16X-4woG4nSu1M_G8c09bq72d60_cwMGT
 * 🇩🇰Duński/Danish: https://drive.google.com/drive/u/0/folders/1XreIrxnMdbTbL_1OeCCmgCS9Rezqz6BS
 * 🇫🇮Fiński/Finnish: https://drive.google.com/drive/u/0/folders/1Qi154Ld4MlLETByANPLsou7TCbJNMHxK 
 * 🇫🇷Francuski/French: https://drive.google.com/drive/u/0/folders/1Za_3h57gq6V71RCLzZHNitNRoC9pXwvr

@@ -5,12 +5,11 @@ A collection of links to Ukrainian language tools
 
 ## NEWS
 
+* [Updated translation models at Huggingface](https://huggingface.co/models?language=uk&pipeline_tag=translation&sort=modified)
 * [Bilingual pictograms in various langauges](pictograms.md)
 * [big](opus-mt-ukr-flores-devtest-big.md), [base](opus-mt-ukr-flores-devtest-base.md) and [tiny](opus-mt-ukr-flores-devtest-tiny.md) transformer models from OPUS-MT
 * new translation tools with Ukrainian language support
-* moved MT model list to separate pages
-* [updated table with new OPUS-MT models](opus-mt-ukr-flores-devtest.md)
-* benchmarks on flores101 scores
+* [updated table with new OPUS-MT models](opus-mt-ukr-flores-devtest.md) with benchmarks on flores101 scores
 
 
 ## Chat bots and other on-line tools
@@ -56,16 +55,16 @@ Deployable MT server solutions, web apps, docker containers:
 
 Huggingface:
 
-* [Ukrainian Translation models](https://huggingface.co/models?language=uk&pipeline_tag=translation&sort=downloads)
+* [Ukrainian Translation models](https://huggingface.co/models?language=uk&pipeline_tag=translation&sort=modified)
 
 Example use for hf models (Ukrainian - English):
 
 ```python
 from transformers import pipeline
-pipe = pipeline("translation", model="Helsinki-NLP/opus-mt-uk-en")
+pipe = pipeline("translation", model="Helsinki-NLP/opus-mt-tc-big-zle-en")
 print(pipe("Мене звати Вольфґанґ і я живу в Берліні."))
 
-# [{'translation_text': 'My name is Wolfgang, and I live in Berlin.'}]
+# [{'translation_text': 'My name is Wolfgang and I live in Berlin.'}]
 ```
 
 

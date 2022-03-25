@@ -44,7 +44,7 @@ A collection of links to Ukrainian language tools
 Computer-aided translation / interactive translation:
 
 * [OPUS-CAT](https://helsinki-nlp.github.io/OPUS-CAT/): plugins for common translation tools, downloadable MT models from OPUS-MT
-* [OPUS-MT-app (translateLocally)](https://github.com/Helsinki-NLP/OPUS-MT-app/) - speed-optimized local translation - now with models for Ukrainian to English and English to Ukrainian (NOTE: models are broken on Windows, unfortunately!)
+* [OPUS-MT-app](https://github.com/Helsinki-NLP/OPUS-MT-app/) and [translatelocally](https://translatelocally.com/) - speed-optimized local translation - now with models for Ukrainian; also available as [client-side web browser app](https://translatelocally.com/web/)
 
 
 Deployable MT server solutions, web apps, docker containers:

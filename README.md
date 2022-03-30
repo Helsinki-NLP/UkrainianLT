@@ -14,7 +14,7 @@ A collection of links to Ukrainian language tools
 
 ## Chat bots and other on-line tools
 
-[HelpUkraineBot](https://helpukrainebot.com/en) - Latvia’s assistance to Ukraine
+* [HelpUkraineBot](https://helpukrainebot.com/en) - Latvia’s assistance to Ukraine
 
 
 ## Translation
@@ -26,7 +26,14 @@ A collection of links to Ukrainian language tools
 * [OPUS-MT web-interface](https://translate.ling.helsinki.fi/ui/ukrainian)
 * [Google translate](https://translate.google.com/)
 * [Microsoft Bing translator](https://www.bing.com/Translator)
+* [AppTek translator](https://www.apptek.com/technology/machine-translation)
 * [Tilde trainslator](https://translate.tilde.com)
+
+Integration into apps:
+
+* Ukrainian - Czech Telegram Bot: http://t.me/uk_cs_translation_bot
+* Ukrainian - Czech Mssenger Bot: https://m.me/uk.cs.translation.bot
+* more about translation bots: https://github.com/martin-majlis/uk-cs-translation-bot
 
 
 ### Pre-trained translation models

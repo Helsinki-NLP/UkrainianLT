@@ -5,6 +5,7 @@ A collection of links to Ukrainian language tools
 
 ## NEWS
 
+* [Added link to another list of Ukrainian NLP](https://github.com/asivokon/awesome-ukrainian-nlp)
 * [Updated translation models at Huggingface](https://huggingface.co/models?language=uk&pipeline_tag=translation&sort=modified)
 * [Bilingual pictograms in various langauges](pictograms.md)
 * [big](opus-mt-ukr-flores-devtest-big.md), [base](opus-mt-ukr-flores-devtest-base.md) and [tiny](opus-mt-ukr-flores-devtest-tiny.md) transformer models from OPUS-MT
@@ -141,3 +142,4 @@ Resources from ELG:
 * [Ukrainian LT resources at huggingface](https://huggingface.co/models?language=uk)
 * [Ukrainian LT resources at the European Language Grid](https://live.european-language-grid.eu/catalogue/search/Ukrainian)
 * [Resources and links collected by ELRA](https://cloud.elra.info/s/S7tCCkjyRpfLdF5)
+* [Another curated list of Ukrainian NLP](https://github.com/asivokon/awesome-ukrainian-nlp)

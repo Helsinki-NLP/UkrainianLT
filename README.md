@@ -5,6 +5,7 @@ A collection of links to Ukrainian language tools
 
 ## NEWS
 
+* New parallel data: [MultParaCrawl v9](https://opus.nlpl.eu/MultiParaCrawl.php) and [SUMMA](https://opus.nlpl.eu/SUMMA.php) including Ukrainian
 * [Added link to another list of Ukrainian NLP](https://github.com/asivokon/awesome-ukrainian-nlp)
 * [Updated translation models at Huggingface](https://huggingface.co/models?language=uk&pipeline_tag=translation&sort=modified)
 * [Bilingual pictograms in various languages](pictograms.md)
@@ -86,6 +87,8 @@ European Language Grid:
 ### MT Data sets
 
 * [OPUS](https://opus.nlpl.eu/), use [OPUS-API](https://opus.nlpl.eu/opusapi/) to search for resources, for example [all bitexts for English-Ukrainian](https://opus.nlpl.eu/opusapi/?source=en&target=uk&preprocessing=moses&version=latest)
+* [MultParaCrawl](https://opus.nlpl.eu/MultiParaCrawl.php) - Crawled parallel corppra including Ukrainian
+* [SUMMA](https://opus.nlpl.eu/SUMMA.php) - Ukrainian - English data
 * [Tatoeba MT Challenge data sets](https://github.com/Helsinki-NLP/Tatoeba-Challenge/)
 * [OPUS-MT-testsets, various sources](https://github.com/Helsinki-NLP/OPUS-MT-testsets)
 * [Polish-Ukrainian Parallel Corpus at ELG](https://live.european-language-grid.eu/catalogue/corpus/8618)

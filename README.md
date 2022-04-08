@@ -7,7 +7,7 @@ A collection of links to Ukrainian language tools
 
 * [Added link to another list of Ukrainian NLP](https://github.com/asivokon/awesome-ukrainian-nlp)
 * [Updated translation models at Huggingface](https://huggingface.co/models?language=uk&pipeline_tag=translation&sort=modified)
-* [Bilingual pictograms in various langauges](pictograms.md)
+* [Bilingual pictograms in various languages](pictograms.md)
 * [big](opus-mt-ukr-flores-devtest-big.md), [base](opus-mt-ukr-flores-devtest-base.md) and [tiny](opus-mt-ukr-flores-devtest-tiny.md) transformer models from OPUS-MT
 * new translation tools with Ukrainian language support
 * [updated table with new OPUS-MT models](opus-mt-ukr-flores-devtest.md) with benchmarks on flores101 scores
@@ -16,6 +16,10 @@ A collection of links to Ukrainian language tools
 ## Chat bots and other on-line tools
 
 * [HelpUkraineBot](https://helpukrainebot.com/en) - Latvia’s assistance to Ukraine
+* OPUS-MT Telegram Translation Bot: https://t.me/opusmt_bot
+* Ukrainian - Czech Telegram Translation Bot: http://t.me/uk_cs_translation_bot
+* Ukrainian - Czech Messenger Translation Bot: https://m.me/uk.cs.translation.bot
+* more about translation bots: https://github.com/martin-majlis/uk-cs-translation-bot
 
 
 ## Translation
@@ -30,11 +34,6 @@ A collection of links to Ukrainian language tools
 * [AppTek translator](https://www.apptek.com/technology/machine-translation)
 * [Tilde trainslator](https://translate.tilde.com)
 
-Integration into apps:
-
-* Ukrainian - Czech Telegram Bot: http://t.me/uk_cs_translation_bot
-* Ukrainian - Czech Mssenger Bot: https://m.me/uk.cs.translation.bot
-* more about translation bots: https://github.com/martin-majlis/uk-cs-translation-bot
 
 
 ### Pre-trained translation models

@@ -5,7 +5,8 @@ A collection of links to Ukrainian language tools
 
 ## NEWS
 
-* New parallel data: [MultParaCrawl v9](https://opus.nlpl.eu/MultiParaCrawl.php) and [SUMMA](https://opus.nlpl.eu/SUMMA.php) including Ukrainian
+* [LDC data sets](https://www.ldc.upenn.edu/collaborations/current-projects/disaster-and-refugee-relief-research)
+* New parallel data: [MultParaCrawl v9b](https://opus.nlpl.eu/MultiParaCrawl.php) and [SUMMA](https://opus.nlpl.eu/SUMMA.php) including Ukrainian
 * [Added link to another list of Ukrainian NLP](https://github.com/asivokon/awesome-ukrainian-nlp)
 * [Updated translation models at Huggingface](https://huggingface.co/models?language=uk&pipeline_tag=translation&sort=modified)
 * [Bilingual pictograms in various languages](pictograms.md)
@@ -140,6 +141,7 @@ Resources from ELG:
 
 ## Other LT resources and links
 
+* [LDC data sets](https://www.ldc.upenn.edu/collaborations/current-projects/disaster-and-refugee-relief-research)
 * [Multilingual pictograms](pictograms.md)
 * [Ukrainian LT resources at huggingface](https://huggingface.co/models?language=uk)
 * [Ukrainian LT resources at the European Language Grid](https://live.european-language-grid.eu/catalogue/search/Ukrainian)

@@ -5,6 +5,7 @@ A collection of links to Ukrainian language tools
 
 ## NEWS
 
+* improved results for Finnish - Ukrainian
 * [LDC data sets](https://www.ldc.upenn.edu/collaborations/current-projects/disaster-and-refugee-relief-research)
 * New parallel data: [MultParaCrawl v9b](https://opus.nlpl.eu/MultiParaCrawl.php) and [SUMMA](https://opus.nlpl.eu/SUMMA.php) including Ukrainian
 * [Added link to another list of Ukrainian NLP](https://github.com/asivokon/awesome-ukrainian-nlp)
